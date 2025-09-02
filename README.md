@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/0414-third-maximum-number) |
+| [0575-distribute-candies](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/0575-distribute-candies) |
 ## String
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/0349-intersection-of-two-arrays) |
+| [0575-distribute-candies](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/0575-distribute-candies) |
 ## Divide and Conquer
 |  |
 | ------- |
