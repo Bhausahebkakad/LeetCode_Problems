@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/0171-excel-sheet-column-number) |
+| [0242-valid-anagram](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/0242-valid-anagram) |
 ## Trie
 |  |
 | ------- |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/0414-third-maximum-number) |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0575-distribute-candies](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/0575-distribute-candies) |
