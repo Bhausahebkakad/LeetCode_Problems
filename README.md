@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/0414-third-maximum-number) |
 | [0575-distribute-candies](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/0575-distribute-candies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/0628-maximum-product-of-three-numbers) |
+| [0748-largest-number-at-least-twice-of-others](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/0748-largest-number-at-least-twice-of-others) |
 ## String
 |  |
 | ------- |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/0628-maximum-product-of-three-numbers) |
+| [0748-largest-number-at-least-twice-of-others](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/0748-largest-number-at-least-twice-of-others) |
 ## Bit Manipulation
 |  |
 | ------- |
