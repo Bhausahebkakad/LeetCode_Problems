@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/0414-third-maximum-number) |
 | [0575-distribute-candies](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/0575-distribute-candies) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/0628-maximum-product-of-three-numbers) |
 ## String
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/0268-missing-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/0628-maximum-product-of-three-numbers) |
 ## Sorting
 |  |
 | ------- |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/0414-third-maximum-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/0628-maximum-product-of-three-numbers) |
 ## Bit Manipulation
 |  |
 | ------- |
