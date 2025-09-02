@@ -1,21 +1,40 @@
 class Solution {
     public int lastStoneWeight(int[] stones) {
 
-        List<Integer> li = Arrays.stream(stones).boxed().sorted().collect(Collectors.toList());
+        // List<Integer> li = Arrays.stream(stones).boxed().sorted().collect(Collectors.toList());
 
-        while(li.size() > 1)
+        // while(li.size() > 1)
+        // {
+        //     int last =li.size()-1;
+        //     int secLast =li.size()-2;
+        //     int diff = li.get(last) - li.get(secLast);
+
+        //     li.remove(last);
+        //     li.set(secLast , diff);
+
+        //     Collections.sort(li);
+        // }
+
+        // return li.get(0);
+        
+
+        
+
+        int leg = stones.length;
+
+        while(leg > 1)
         {
-            int last =li.size()-1;
-            int secLast =li.size()-2;
-            int diff = li.get(last) - li.get(secLast);
+            Arrays.sort(stones);
+           
+                 int diff = stones[leg-1] - stones[leg-2];
 
-            li.remove(last);
-            li.set(secLast , diff);
+                 stones[leg-2] = diff;
 
-            Collections.sort(li);
+                 stones = Arrays.copyOf(stones , leg-1);
+                 leg--;
+            
         }
 
-        return li.get(0);
-        
+        return stones[0];
     }
 }
