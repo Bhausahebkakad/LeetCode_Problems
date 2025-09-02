@@ -18,8 +18,6 @@ class Solution {
         // return li.get(0);
         
 
-        
-
         int leg = stones.length;
 
         while(leg > 1)
