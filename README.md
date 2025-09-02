@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/0125-valid-palindrome) |
+| [0168-excel-sheet-column-title](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/0168-excel-sheet-column-title) |
 ## Trie
 |  |
 | ------- |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/0066-plus-one) |
+| [0168-excel-sheet-column-title](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/0168-excel-sheet-column-title) |
 | [0268-missing-number](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/0628-maximum-product-of-three-numbers) |
 ## Sorting
