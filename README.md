@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/0290-word-pattern) |
+| [0344-reverse-string](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/0344-reverse-string) |
 ## Trie
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/0283-move-zeroes) |
+| [0344-reverse-string](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/0349-intersection-of-two-arrays) |
 | [1168-duplicate-zeros](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/1168-duplicate-zeros) |
 ## Binary Search
