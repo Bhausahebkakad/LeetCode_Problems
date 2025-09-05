@@ -21,19 +21,13 @@ class Solution {
                     arr[1] = j;
                     break;
                 }
-                if(nums[j] == target && second) 
+               else if(nums[j] == target && second) 
                 {
                     arr[1] = j;
                     second = false;
                 }
             }
         }
-        // else if(nums.length == 1)
-        // {
-        //     arr[0] = 0;
-        //     arr[1] = 0;
-        // }
-
         return arr;
     }
 }
