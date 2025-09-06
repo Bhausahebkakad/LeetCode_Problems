@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/0575-distribute-candies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/0748-largest-number-at-least-twice-of-others) |
+| [0792-binary-search](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/0792-binary-search) |
 | [1127-last-stone-weight](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/1127-last-stone-weight) |
 | [1168-duplicate-zeros](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/1168-duplicate-zeros) |
 | [1217-relative-sort-array](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/1217-relative-sort-array) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/0349-intersection-of-two-arrays) |
+| [0792-binary-search](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/0792-binary-search) |
 ## Math
 |  |
 | ------- |
