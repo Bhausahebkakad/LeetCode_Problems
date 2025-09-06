@@ -153,4 +153,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1127-last-stone-weight](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/1127-last-stone-weight) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
