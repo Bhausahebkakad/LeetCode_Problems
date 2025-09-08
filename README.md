@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [3830-find-closest-person](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/3830-find-closest-person) |
 ## Sorting
 |  |
