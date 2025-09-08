@@ -10,10 +10,10 @@ class Solution {
         {
             if((start + end) == n)
             {
-                String s1 = String.valueOf(start);
-                String s2 = String.valueOf(end);
+                // String s1 = String.valueOf(start);
+                // String s2 = String.valueOf(end);
 
-                if(!(s1.contains("0") || s2.contains("0")))
+                if(!( checkZero(start) || checkZero(end)))
                 {
                     arr[0] = start;
                     arr[1] = end;
@@ -25,5 +25,18 @@ class Solution {
             end --;
         }
         return arr;
+    }
+
+    public boolean checkZero(int val)
+    {
+        while(val > 0)
+        {
+        int last = val % 10;
+
+        if(last == 0) return true;
+
+        val = val/10;
+        }
+        return false;
     }
 }
