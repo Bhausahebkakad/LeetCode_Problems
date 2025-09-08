@@ -10,10 +10,10 @@ class Solution {
         {
             if((start + end) == n)
             {
-                String s1 = String.valueOf(start);
-                String s2 = String.valueOf(end);
+                String s1 = String.valueOf(start) + String.valueOf(end);
+                // String s2 = String.valueOf(end);
 
-                if(!(s1.contains("0") || s2.contains("0")))
+                if(!(s1.contains("0")))
                 {
                     arr[0] = start;
                     arr[1] = end;
