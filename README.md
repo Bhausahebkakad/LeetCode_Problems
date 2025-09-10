@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0415-add-strings](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/0415-add-strings) |
 | [0504-base-7](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/0504-base-7) |
+| [0541-reverse-string-ii](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/0541-reverse-string-ii) |
 | [0742-to-lower-case](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/0742-to-lower-case) |
 | [0812-rotate-string](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/0812-rotate-string) |
 | [1714-rearrange-spaces-between-words](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/1714-rearrange-spaces-between-words) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/0349-intersection-of-two-arrays) |
+| [0541-reverse-string-ii](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/0541-reverse-string-ii) |
 | [1168-duplicate-zeros](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/1168-duplicate-zeros) |
 ## Binary Search
 |  |
