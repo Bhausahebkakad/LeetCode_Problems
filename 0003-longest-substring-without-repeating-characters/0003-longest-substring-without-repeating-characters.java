@@ -16,7 +16,6 @@ class Solution {
             else if(!repit)
             {
                 j ++;
-                // i = j + 1;
             }
         }
 
