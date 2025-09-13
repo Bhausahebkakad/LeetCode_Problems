@@ -1,39 +1,65 @@
 class Solution {
     public int maxFreqSum(String s) {
         
-        Map<Character , Integer> mp =  new HashMap();
+    //     Map<Character , Integer> mp =  new HashMap();
 
-        for(int i = 0; i < s.length(); i++)
-        {
-            char ch = s.charAt(i);
+    //     for(int i = 0; i < s.length(); i++)
+    //     {
+    //         char ch = s.charAt(i);
 
-            if(mp.get(ch) == null)
+    //         if(mp.get(ch) == null)
+    //         {
+    //             mp.put(ch , 1);
+    //         }
+    //         else
+    //         {
+    //             mp.put(ch , mp.get(ch)+1);
+    //         }
+    //     }
+
+    //     int v = 0;
+    //     int c = 0;
+    //   for(Map.Entry<Character , Integer> entry : mp.entrySet())
+    //   {
+    //      char key = entry.getKey();
+    //      int value = entry.getValue();
+
+    //      if((key == 'a' || key == 'e' || key == 'i' || key=='o' || key == 'u')  && v < value)
+    //         {
+    //             v = value;
+    //         }
+    //     else if((key != 'a' && key != 'e' && key != 'i' && key !='o' && key != 'u') && c < value)
+    //         {
+    //             c = value;
+    //         }
+    //   }
+
+    //     return v + c; 
+
+
+    int v = 0;
+    int c = 0;
+    
+     int arr[] = new int[26];
+
+     for(int i = 0 ; i < s.length(); i++)
+     {
+        arr[s.charAt(i) - 'a']++;
+     } 
+
+     for(int i = 0; i < 26; i++)
+     {
+
+        if((i == 0 || i == 4 || i == 8 || i == 14 || i == 20)  && v < arr[i])
             {
-                mp.put(ch , 1);
+                v = arr[i];
             }
-            else
+        else if((i != 0 && i != 4 && i != 8 && i != 14 && i != 20) && c < arr[i])
             {
-                mp.put(ch , mp.get(ch)+1);
+                c = arr[i];
             }
-        }
+     }
+     return c + v;
 
-        int v = 0;
-        int c = 0;
-      for(Map.Entry<Character , Integer> entry : mp.entrySet())
-      {
-         char key = entry.getKey();
-         int value = entry.getValue();
-
-         if((key == 'a' || key == 'e' || key == 'i' || key=='o' || key == 'u')  && v < value)
-            {
-                v = value;
-            }
-        else if((key != 'a' && key != 'e' && key != 'i' && key !='o' && key != 'u') && c < value)
-            {
-                c = value;
-            }
-      }
-
-        return v + c;
     }
 }
