@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/0541-reverse-string-ii) |
 | [0742-to-lower-case](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/0742-to-lower-case) |
 | [0812-rotate-string](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/0812-rotate-string) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1714-rearrange-spaces-between-words](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/1714-rearrange-spaces-between-words) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Trie
@@ -178,4 +179,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/0219-contains-duplicate-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/1537-maximum-score-after-splitting-a-string) |
 <!---LeetCode Topics End-->
