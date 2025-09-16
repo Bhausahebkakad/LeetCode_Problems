@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/0268-missing-number) |
 | [2427-first-letter-to-appear-twice](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/2427-first-letter-to-appear-twice) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 ## Hash Table
 |  |
 | ------- |
@@ -187,4 +188,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/1537-maximum-score-after-splitting-a-string) |
+## Brainteaser
+|  |
+| ------- |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+## Enumeration
+|  |
+| ------- |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 <!---LeetCode Topics End-->
