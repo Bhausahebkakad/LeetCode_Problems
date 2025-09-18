@@ -5,7 +5,7 @@ class Solution {
         
         int carry = k;
 
-        List<Integer> li = new ArrayList();
+        LinkedList<Integer> li = new LinkedList();
 
         int i = n;
 
@@ -15,10 +15,10 @@ class Solution {
             {
                 carry += num[i]; 
             }
-            li.add(carry % 10);
+            li.addFirst(carry % 10);
             carry = carry/10;
         }
-        Collections.reverse(li);  
+        // Collections.reverse(li);  
 
         return li;
     }
