@@ -15,11 +15,10 @@ class Solution {
             {
                 carry += num[i]; 
             }
-
-            li.add(0 , carry % 10);
+            li.add(carry % 10);
             carry = carry/10;
         }
-        // Collections.reverse(li);  
+        Collections.reverse(li);  
 
         return li;
     }
