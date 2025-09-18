@@ -1,13 +1,13 @@
 class Solution {
     public List<Integer> addToArrayForm(int[] num, int k) {
         
-        int n = num.length;
+        // int n = num.length;
         
         int carry = k;
 
         LinkedList<Integer> li = new LinkedList();
 
-        int i = n;
+        int i = num.length;
 
         while(--i >= 0 || carry > 0)
         {
@@ -18,8 +18,6 @@ class Solution {
             li.addFirst(carry % 10);
             carry = carry/10;
         }
-        // Collections.reverse(li);  
-
         return li;
     }
 }
