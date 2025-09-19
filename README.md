@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1217-relative-sort-array](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/1217-relative-sort-array) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## String
 |  |
 | ------- |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/0219-contains-duplicate-ii) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -200,4 +202,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 <!---LeetCode Topics End-->
