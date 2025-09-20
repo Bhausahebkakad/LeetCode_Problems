@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/0387-first-unique-character-in-a-string) |
+| [0409-longest-palindrome](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/0409-longest-palindrome) |
 | [0415-add-strings](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/0415-add-strings) |
 | [0504-base-7](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/0504-base-7) |
 | [0541-reverse-string-ii](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/0541-reverse-string-ii) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/0387-first-unique-character-in-a-string) |
+| [0409-longest-palindrome](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/0409-longest-palindrome) |
 | [0575-distribute-candies](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/0575-distribute-candies) |
 | [1217-relative-sort-array](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/1217-relative-sort-array) |
 | [2427-first-letter-to-appear-twice](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/2427-first-letter-to-appear-twice) |
@@ -206,4 +208,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+## Greedy
+|  |
+| ------- |
+| [0409-longest-palindrome](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/0409-longest-palindrome) |
 <!---LeetCode Topics End-->
