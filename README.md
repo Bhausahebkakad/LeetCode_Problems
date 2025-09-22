@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/3242-count-elements-with-maximum-frequency) |
 ## String
 |  |
 | ------- |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/0575-distribute-candies) |
 | [1217-relative-sort-array](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/1217-relative-sort-array) |
 | [2427-first-letter-to-appear-twice](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/2427-first-letter-to-appear-twice) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Divide and Conquer
 |  |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [2427-first-letter-to-appear-twice](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/2427-first-letter-to-appear-twice) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Counting Sort
 |  |
