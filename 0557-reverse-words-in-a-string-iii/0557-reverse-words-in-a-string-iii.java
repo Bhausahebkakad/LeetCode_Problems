@@ -5,7 +5,6 @@ class Solution {
 
         for(int i = 0; i < arr.length; i++)
         {
-
             StringBuffer sb = new StringBuffer(arr[i]);
 
             arr[i] = sb.reverse().toString();
