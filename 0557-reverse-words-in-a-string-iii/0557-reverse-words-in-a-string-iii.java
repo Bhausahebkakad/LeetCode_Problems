@@ -5,9 +5,11 @@ class Solution {
 
         for(int i = 0; i < arr.length; i++)
         {
-            String ans = reverse(arr[i]);
+            // String ans = reverse(arr[i]);
 
-            arr[i] = ans;
+            StringBuilder sb = new StringBuilder(arr[i]);
+
+            arr[i] = sb.reverse().toString();
         }
 
         return String.join(" ", arr);
