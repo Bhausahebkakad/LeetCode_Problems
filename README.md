@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0792-binary-search](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/0792-binary-search) |
+| [1018-largest-perimeter-triangle](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/1018-largest-perimeter-triangle) |
 | [1031-add-to-array-form-of-integer](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/1031-add-to-array-form-of-integer) |
 | [1127-last-stone-weight](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/1127-last-stone-weight) |
 | [1168-duplicate-zeros](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/1168-duplicate-zeros) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/0415-add-strings) |
 | [0504-base-7](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/0504-base-7) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/0628-maximum-product-of-three-numbers) |
+| [1018-largest-perimeter-triangle](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/1018-largest-perimeter-triangle) |
 | [1031-add-to-array-form-of-integer](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/1031-add-to-array-form-of-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/0748-largest-number-at-least-twice-of-others) |
+| [1018-largest-perimeter-triangle](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/1018-largest-perimeter-triangle) |
 | [1217-relative-sort-array](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/1217-relative-sort-array) |
 ## Bit Manipulation
 |  |
@@ -231,4 +234,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/0011-container-with-most-water) |
 | [0409-longest-palindrome](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/0409-longest-palindrome) |
+| [1018-largest-perimeter-triangle](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/1018-largest-perimeter-triangle) |
 <!---LeetCode Topics End-->
