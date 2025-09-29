@@ -9,9 +9,7 @@ class Solution {
         {
             return arr[mid];
         }
-        
-            double ans = arr[mid] + arr[mid-1];
-            return ans/2;
+            return (arr[mid] + arr[mid-1])/2;
         
     }
 
