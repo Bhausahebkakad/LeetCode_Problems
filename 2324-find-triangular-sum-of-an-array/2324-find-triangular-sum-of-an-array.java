@@ -1,7 +1,8 @@
 class Solution {
     public int triangularSum(int[] nums) {
 
-        for(int i = 0 ; i < nums.length-1; i++)
+        // for(int i = 0 ; i < nums.length-1; i++)
+        while(nums.length > 1)
         {
             int arr1[] = combinations(nums);
 
@@ -9,7 +10,8 @@ class Solution {
             {
                 return arr1[0];
             }
-            System.arraycopy(arr1, 0, nums, 0, nums.length-1);
+            // System.arraycopy(arr1, 0, nums, 0, nums.length-1);
+            nums = arr1;
         }
         return nums[0];
     }
