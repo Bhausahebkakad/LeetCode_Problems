@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/3242-count-elements-with-maximum-frequency) |
 ## String
 |  |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3830-find-closest-person](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/3830-find-closest-person) |
 ## Sorting
 |  |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/0067-add-binary) |
 | [0415-add-strings](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/0415-add-strings) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/2324-find-triangular-sum-of-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -238,4 +241,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/0011-container-with-most-water) |
 | [0409-longest-palindrome](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/0409-longest-palindrome) |
 | [1018-largest-perimeter-triangle](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/1018-largest-perimeter-triangle) |
+## Combinatorics
+|  |
+| ------- |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/2324-find-triangular-sum-of-an-array) |
 <!---LeetCode Topics End-->
