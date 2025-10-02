@@ -4,8 +4,8 @@ class Solution {
         int emptyBottles = numBottles;
         int drunkBottle = numBottles;
         int fullBottles = 0;
-        int i = numExchange;
-        while(i+15 >= 0)
+        int i = numBottles ;
+        while(i >= 0)
         {
            if(emptyBottles >= numExchange)
            {
