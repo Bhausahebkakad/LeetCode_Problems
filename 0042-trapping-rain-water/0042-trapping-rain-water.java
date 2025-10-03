@@ -15,7 +15,6 @@ class Solution {
             lmaxArr[i] = Math.max(lmaxArr[i-1], height[i]);
 
         }
-
          for(int i = n-2; i >=0; i--)
         {
             rmaxArr[i] = Math.max(rmaxArr[i+1], height[i]);
