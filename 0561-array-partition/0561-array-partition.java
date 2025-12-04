@@ -9,7 +9,7 @@ class Solution {
             {
                  ans +=  Math.min(nums[i] , nums[i+1]);
             }
-            
+
         return ans ;
     }
 
