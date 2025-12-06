@@ -7,7 +7,6 @@ class Solution {
         {
             sum += nums[i];
         }
-
         int count = 0;
 
         int leftSum = nums[0];
@@ -21,7 +20,6 @@ class Solution {
             leftSum += nums[i];
             sum -= nums[i];
         }
-
         return count;
     }
 }
