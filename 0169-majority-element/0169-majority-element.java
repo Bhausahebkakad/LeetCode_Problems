@@ -1,37 +1,66 @@
 class Solution {
     public int majorityElement(int[] nums) {
         
-        Arrays.sort(nums);
-        int count = 1;
-        int maxCount = 0;
-        int ele = nums[0];
-        
-        for(int i = 0; i < nums.length-1; i++)
-{
-            if(nums[i] != nums[i+1])
-            {     
+//         Arrays.sort(nums);
+//         int count = 1;
+//         int maxCount = 0;
+//         int ele = nums[0];
+
+//         for(int i = 0; i < nums.length-1; i++)
+// {
+//             if(nums[i] != nums[i+1])
+//             {     
                 
-                if(maxCount < count)
-                {
-                    maxCount = count;
-                    ele = nums[i];
-                }
+//                 if(maxCount < count)
+//                 {
+//                     maxCount = count;
+//                     ele = nums[i];
+//                 }
 
-                count = 1;
-            }
-            else
-            {
-                count++;
-            }
+//                 count = 1;
+//             }
+//             else
+//             {
+//                 count++;
+//             }
 
-        }
-         if(maxCount < count)
-                {
-                    maxCount = count;
-                    ele = nums[nums.length-1];
-                }
+//         }
+//          if(maxCount < count)
+//                 {
+//                     maxCount = count;
+//                     ele = nums[nums.length-1];
+//                 }
 
-        return ele;
+//         return ele;
+
+
+       Map<Integer, Integer> numberCount = new HashMap<>();
+
+       for(int i = 0; i < nums.length; i++)
+       {
+          if(numberCount.get(nums[i]) == null)
+          {
+            numberCount.put(nums[i],1);
+          }
+          else
+          {
+            numberCount.put(nums[i], numberCount.get(nums[i])+1);
+          }
+       }
+
+       int val = 0;
+       int key = 0;
+
+       for(Map.Entry<Integer, Integer> ele : numberCount.entrySet())
+       {
+          if(ele.getValue() > val)
+          {
+            val = ele.getValue();
+            key = ele.getKey();
+          }
+       }
+
+       return key;
 
     }
 }
