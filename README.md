@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## String
 |  |
 | ------- |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1642-water-bottles](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/1642-water-bottles) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3336-water-bottles-ii](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/3336-water-bottles-ii) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3830-find-closest-person](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/3830-find-closest-person) |
 ## Sorting
 |  |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Brainteaser
 |  |
 | ------- |
