@@ -53,9 +53,10 @@ class Solution {
 
        for(Map.Entry<Integer, Integer> ele : numberCount.entrySet())
        {
-          if(ele.getValue() > val)
+            int currebtVal= ele.getValue();
+          if(currebtVal > val)
           {
-            val = ele.getValue();
+            val = currebtVal;
             key = ele.getKey();
           }
        }
