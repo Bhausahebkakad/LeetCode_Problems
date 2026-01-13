@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0792-binary-search](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/0792-binary-search) |
+| [0896-monotonic-array](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/0896-monotonic-array) |
 | [1018-largest-perimeter-triangle](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/1018-largest-perimeter-triangle) |
 | [1031-add-to-array-form-of-integer](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/1031-add-to-array-form-of-integer) |
 | [1127-last-stone-weight](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/1127-last-stone-weight) |
