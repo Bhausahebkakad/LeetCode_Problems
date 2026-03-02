@@ -6,7 +6,7 @@ class Solution {
 
         for(int i = 0; i < str.length; i++)
         {
-            if(!str[i].trim().isEmpty())
+            if(!str[i].isBlank())
             {
                 result++;
             }
