@@ -1,12 +1,6 @@
 class Solution {
     public int countSegments(String s) {
-        
 
-        
-        if(s.isEmpty())
-        {
-            return 0;
-        }
         int result = 0 ;
         String str[] = s.split(" ");
 
@@ -17,9 +11,6 @@ class Solution {
                 result++;
             }
         }
-
-        // return str.length;
-
         return result;
     }
 }
