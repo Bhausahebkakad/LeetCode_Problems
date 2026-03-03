@@ -31,7 +31,6 @@ class Solution {
         {
             set.add(s.charAt(i));
         }
-
         return set.size();
     }
 }
