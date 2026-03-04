@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0792-binary-search](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/0792-binary-search) |
 | [0896-monotonic-array](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/0896-monotonic-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1018-largest-perimeter-triangle](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/1018-largest-perimeter-triangle) |
 | [1031-add-to-array-form-of-integer](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/1031-add-to-array-form-of-integer) |
 | [1127-last-stone-weight](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/1127-last-stone-weight) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0953-reverse-only-letters](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/0953-reverse-only-letters) |
+| [0977-squares-of-a-sorted-array](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1168-duplicate-zeros](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/1168-duplicate-zeros) |
 ## Binary Search
 |  |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/0748-largest-number-at-least-twice-of-others) |
+| [0977-squares-of-a-sorted-array](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1018-largest-perimeter-triangle](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/1018-largest-perimeter-triangle) |
 | [1217-relative-sort-array](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/1217-relative-sort-array) |
 ## Bit Manipulation
