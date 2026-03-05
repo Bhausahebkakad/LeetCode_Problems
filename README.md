@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0953-reverse-only-letters](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/0953-reverse-only-letters) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1714-rearrange-spaces-between-words](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/1714-rearrange-spaces-between-words) |
+| [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [2427-first-letter-to-appear-twice](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/2427-first-letter-to-appear-twice) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Bhausahebkakad/LeetCode_Problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Trie
