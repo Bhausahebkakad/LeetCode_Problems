@@ -7,8 +7,8 @@ class Solution {
 
         for (int i = 0; i < s.length(); i++) {
 
-            int len1 = expand(s, i, i);       // odd length
-            int len2 = expand(s, i, i + 1);   // even length
+            int len1 = expand(s, i, i);      
+            int len2 = expand(s, i, i + 1);  
 
             int len = Math.max(len1, len2);
 
