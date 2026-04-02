@@ -29,6 +29,7 @@ class Solution {
                  right++;
              }
              left++;
+             right--;
              while(end - start < right - left)
              {
                  start = left;
@@ -36,7 +37,7 @@ class Solution {
              }
              
          }
-         return s.substring(start , end);
+         return s.substring(start , end+1);
     }
 
 }
